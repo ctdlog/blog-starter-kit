@@ -9,6 +9,7 @@ yarn install
 yarn start
 ```
 
+### 📂 파일 트리
 ```
 blog-starter-kit
 ├─ __posts
